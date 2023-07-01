@@ -5,7 +5,7 @@ A machine learnning project for predicting if a particular user will click on th
 <img src="https://badgen.net/badge/Logistic Regression/Unsupervised Machine Learning/blue?icon=python"/>
 
 ## Project Status
-[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/1%Logistic%20Regression/logistic_regression_project.ipynb)
+[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/2%20Logistic%20Regression/logistic_regression_project.ipynb)
 
 ## Reflection
 
