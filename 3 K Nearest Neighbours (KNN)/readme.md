@@ -1,11 +1,11 @@
 ## Advertising Project 
 
-A machine learnning project for predicting a class for a new data point based off of the features. In this type of ML, column names aren't given by organisation for client's security purpose. 
+A machine learning project for predicting a class for a new data point based on the features. In this type of ML, column names aren't given by the organisation for client's security purposes. 
 
 <img src="https://badgen.net/badge/KNN Regression/Unsupervised Machine Learning/blue?icon=python"/>
 
 ## Project Status
-[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/1%Logistic%20Regression/logistic_regression_project.ipynb)
+[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/3%20K%20Nearest%20Neighbours%20(KNN)/knn_project.ipynb)
 
 ## Reflection
 
