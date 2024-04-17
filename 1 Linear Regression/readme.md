@@ -5,7 +5,7 @@ A machine learnning project for predicting if a company should publish a webpage
 <img src="https://badgen.net/badge/Linear Regression/Unsupervised Machine Learning/blue?icon=python"/>
 
 ## Project Status
-[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/1%20Linear%20Regression/linear_regression_project.ipynb)
+[Completed](https://drive.google.com/file/d/1aE7HY1yekyH5RJQpUvlb3rELtOuk7ATn/view?usp=sharing)
 
 ## Reflection
 
